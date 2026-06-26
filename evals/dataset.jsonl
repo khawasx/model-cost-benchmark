@@ -1,0 +1,200 @@
+{"id": "ticket-0132", "subject": "Degraded performance", "description": "User message: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0035", "subject": "Complete failure", "description": "Ticket notes: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0060", "subject": "Security breach", "description": "Reported by support queue: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0133", "subject": "Major feature broken", "description": "User message: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0012", "subject": "Security breach", "description": "Escalation summary: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0122", "subject": "Billing error", "description": "Customer says: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0182", "subject": "How-to question", "description": "Customer says: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0134", "subject": "Major feature broken", "description": "Ticket notes: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0082", "subject": "Degraded performance", "description": "Reported by support queue: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0004", "subject": "Security breach", "description": "Customer says: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0055", "subject": "Global outage", "description": "Escalation summary: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0147", "subject": "How-to question", "description": "User message: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0153", "subject": "Low impact bug", "description": "Escalation summary: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0076", "subject": "Payment failed", "description": "Customer says: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0097", "subject": "SLA risk", "description": "Escalation summary: Key customer SLA breach risk due to repeated timeout errors.", "label": "P2"}
+{"id": "ticket-0195", "subject": "Minor UI bug", "description": "Ticket notes: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0120", "subject": "Major feature broken", "description": "User message: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0128", "subject": "Billing error", "description": "User message: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0024", "subject": "Global outage", "description": "User message: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0099", "subject": "Major feature broken", "description": "Escalation summary: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0036", "subject": "Security breach", "description": "Ticket notes: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0139", "subject": "Feature request", "description": "Customer says: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0156", "subject": "Docs clarification", "description": "User message: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0141", "subject": "Cosmetic issue", "description": "User message: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0073", "subject": "SLA risk", "description": "Ticket notes: Key customer SLA breach risk due to repeated timeout errors.", "label": "P2"}
+{"id": "ticket-0189", "subject": "How-to question", "description": "Customer says: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0116", "subject": "Error 500 spike", "description": "User message: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0107", "subject": "Billing error", "description": "Escalation summary: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0179", "subject": "Feature request", "description": "Escalation summary: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0062", "subject": "Production outage", "description": "Customer says: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0032", "subject": "Data loss", "description": "Customer says: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0161", "subject": "Docs clarification", "description": "Customer says: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0187", "subject": "Docs clarification", "description": "Escalation summary: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0002", "subject": "Production outage", "description": "Ticket notes: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0148", "subject": "Low impact bug", "description": "Escalation summary: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0013", "subject": "Complete failure", "description": "Reported by support queue: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0109", "subject": "Degraded performance", "description": "Reported by support queue: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0185", "subject": "Cosmetic issue", "description": "Escalation summary: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0084", "subject": "Major feature broken", "description": "Escalation summary: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0170", "subject": "How-to question", "description": "Ticket notes: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0022", "subject": "Data loss", "description": "Escalation summary: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0081", "subject": "Error 500 spike", "description": "Escalation summary: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0089", "subject": "SLA risk", "description": "Reported by support queue: Key customer SLA breach risk due to repeated timeout errors.", "label": "P2"}
+{"id": "ticket-0108", "subject": "Degraded performance", "description": "Reported by support queue: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0087", "subject": "Payment failed", "description": "Customer says: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0019", "subject": "Data loss", "description": "Customer says: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0104", "subject": "Payment failed", "description": "Customer says: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0149", "subject": "Low impact bug", "description": "User message: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0171", "subject": "Minor UI bug", "description": "Ticket notes: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0048", "subject": "Complete failure", "description": "Ticket notes: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0063", "subject": "Production outage", "description": "Reported by support queue: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0031", "subject": "Production outage", "description": "Reported by support queue: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0196", "subject": "Minor UI bug", "description": "Ticket notes: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0119", "subject": "Degraded performance", "description": "User message: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0044", "subject": "Global outage", "description": "Escalation summary: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0146", "subject": "How-to question", "description": "User message: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0186", "subject": "Low impact bug", "description": "Ticket notes: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0030", "subject": "Security breach", "description": "Customer says: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0021", "subject": "Production outage", "description": "Ticket notes: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0178", "subject": "Docs clarification", "description": "Customer says: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0100", "subject": "Error 500 spike", "description": "Reported by support queue: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0165", "subject": "Docs clarification", "description": "Escalation summary: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0051", "subject": "Security breach", "description": "User message: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0130", "subject": "Billing error", "description": "Reported by support queue: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0167", "subject": "Feature request", "description": "User message: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0037", "subject": "Data loss", "description": "Reported by support queue: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0070", "subject": "Degraded performance", "description": "Customer says: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0192", "subject": "Low impact bug", "description": "Escalation summary: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0176", "subject": "Feature request", "description": "Customer says: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0083", "subject": "Major feature broken", "description": "Ticket notes: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0123", "subject": "Error 500 spike", "description": "User message: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0049", "subject": "Production outage", "description": "Reported by support queue: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0169", "subject": "Docs clarification", "description": "Escalation summary: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0154", "subject": "Feature request", "description": "Ticket notes: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0017", "subject": "Data loss", "description": "Ticket notes: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0071", "subject": "Error 500 spike", "description": "Customer says: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0184", "subject": "How-to question", "description": "Reported by support queue: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0145", "subject": "Feature request", "description": "User message: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0160", "subject": "Minor UI bug", "description": "Customer says: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0053", "subject": "Security breach", "description": "Ticket notes: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0162", "subject": "Low impact bug", "description": "Reported by support queue: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0065", "subject": "Global outage", "description": "User message: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0183", "subject": "Minor UI bug", "description": "Ticket notes: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0016", "subject": "Security breach", "description": "User message: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0129", "subject": "Error 500 spike", "description": "Ticket notes: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0126", "subject": "Error 500 spike", "description": "Customer says: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0080", "subject": "Error 500 spike", "description": "Ticket notes: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0043", "subject": "Complete failure", "description": "Ticket notes: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0115", "subject": "Major feature broken", "description": "Ticket notes: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0009", "subject": "Security breach", "description": "Reported by support queue: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0102", "subject": "Payment failed", "description": "Ticket notes: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0047", "subject": "Production outage", "description": "Ticket notes: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0026", "subject": "Complete failure", "description": "Customer says: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0155", "subject": "Feature request", "description": "Customer says: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0096", "subject": "Degraded performance", "description": "Reported by support queue: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0180", "subject": "Minor UI bug", "description": "Escalation summary: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0093", "subject": "Billing error", "description": "Escalation summary: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0088", "subject": "Billing error", "description": "Ticket notes: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0152", "subject": "Feature request", "description": "Escalation summary: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0067", "subject": "Complete failure", "description": "User message: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0200", "subject": "How-to question", "description": "Customer says: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0112", "subject": "Major feature broken", "description": "Customer says: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0166", "subject": "Feature request", "description": "Escalation summary: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0006", "subject": "Production outage", "description": "Escalation summary: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0175", "subject": "Cosmetic issue", "description": "Ticket notes: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0025", "subject": "Ransomware alert", "description": "Customer says: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0074", "subject": "Billing error", "description": "Ticket notes: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0138", "subject": "Feature request", "description": "Escalation summary: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0127", "subject": "Error 500 spike", "description": "Customer says: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0066", "subject": "Ransomware alert", "description": "Customer says: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0078", "subject": "Degraded performance", "description": "Reported by support queue: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0117", "subject": "Major feature broken", "description": "Escalation summary: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0151", "subject": "How-to question", "description": "Reported by support queue: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0101", "subject": "Error 500 spike", "description": "Ticket notes: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0172", "subject": "Minor UI bug", "description": "Ticket notes: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0045", "subject": "Security breach", "description": "Ticket notes: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0056", "subject": "Ransomware alert", "description": "Ticket notes: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0077", "subject": "Error 500 spike", "description": "Ticket notes: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0014", "subject": "Complete failure", "description": "Escalation summary: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0005", "subject": "Global outage", "description": "Escalation summary: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0124", "subject": "SLA risk", "description": "User message: Key customer SLA breach risk due to repeated timeout errors.", "label": "P2"}
+{"id": "ticket-0075", "subject": "Payment failed", "description": "Reported by support queue: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0023", "subject": "Data loss", "description": "Customer says: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0197", "subject": "Docs clarification", "description": "User message: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0125", "subject": "Payment failed", "description": "User message: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0113", "subject": "Billing error", "description": "Ticket notes: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0015", "subject": "Data loss", "description": "Customer says: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0008", "subject": "Production outage", "description": "Customer says: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0136", "subject": "Feature request", "description": "User message: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0137", "subject": "Docs clarification", "description": "Customer says: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0131", "subject": "Major feature broken", "description": "Reported by support queue: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0143", "subject": "Cosmetic issue", "description": "Customer says: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0135", "subject": "Cosmetic issue", "description": "Reported by support queue: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0018", "subject": "Security breach", "description": "Reported by support queue: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0072", "subject": "Error 500 spike", "description": "Escalation summary: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0085", "subject": "Degraded performance", "description": "Customer says: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0103", "subject": "Payment failed", "description": "Escalation summary: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0050", "subject": "Ransomware alert", "description": "Ticket notes: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0157", "subject": "Docs clarification", "description": "Escalation summary: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0058", "subject": "Complete failure", "description": "Escalation summary: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0059", "subject": "Complete failure", "description": "Ticket notes: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0173", "subject": "Cosmetic issue", "description": "Reported by support queue: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0090", "subject": "Billing error", "description": "Reported by support queue: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0118", "subject": "Major feature broken", "description": "Escalation summary: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0052", "subject": "Complete failure", "description": "User message: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0057", "subject": "Global outage", "description": "Escalation summary: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0121", "subject": "Payment failed", "description": "Reported by support queue: Subscription renewals failing for many accounts since this morning.", "label": "P2"}
+{"id": "ticket-0193", "subject": "Minor UI bug", "description": "Ticket notes: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0098", "subject": "Degraded performance", "description": "User message: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0028", "subject": "Global outage", "description": "Escalation summary: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0041", "subject": "Ransomware alert", "description": "Reported by support queue: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0069", "subject": "Degraded performance", "description": "Ticket notes: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0168", "subject": "Low impact bug", "description": "Escalation summary: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0158", "subject": "Minor UI bug", "description": "Customer says: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0199", "subject": "Feature request", "description": "User message: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0163", "subject": "Cosmetic issue", "description": "Customer says: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0007", "subject": "Complete failure", "description": "Customer says: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0106", "subject": "Billing error", "description": "Ticket notes: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0046", "subject": "Production outage", "description": "Reported by support queue: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0194", "subject": "How-to question", "description": "Escalation summary: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0061", "subject": "Ransomware alert", "description": "User message: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0040", "subject": "Ransomware alert", "description": "Reported by support queue: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0159", "subject": "Docs clarification", "description": "Customer says: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0105", "subject": "Major feature broken", "description": "Reported by support queue: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0188", "subject": "Feature request", "description": "Escalation summary: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0091", "subject": "Degraded performance", "description": "Customer says: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0027", "subject": "Ransomware alert", "description": "Ticket notes: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0064", "subject": "Global outage", "description": "Reported by support queue: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0054", "subject": "Security breach", "description": "Reported by support queue: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0092", "subject": "Billing error", "description": "User message: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0174", "subject": "Low impact bug", "description": "Ticket notes: Tooltip text has a typo on the profile page.", "label": "P3"}
+{"id": "ticket-0094", "subject": "Major feature broken", "description": "Reported by support queue: Checkout is broken for premium users; revenue impact expected.", "label": "P2"}
+{"id": "ticket-0079", "subject": "Degraded performance", "description": "Customer says: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0011", "subject": "Production outage", "description": "Escalation summary: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0033", "subject": "Security breach", "description": "Customer says: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0111", "subject": "Error 500 spike", "description": "Customer says: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0038", "subject": "Global outage", "description": "Ticket notes: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0191", "subject": "Feature request", "description": "Customer says: Can you add CSV export for monthly reports?", "label": "P3"}
+{"id": "ticket-0150", "subject": "Minor UI bug", "description": "Reported by support queue: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0095", "subject": "Error 500 spike", "description": "User message: Error 500 rate increased 8x on order service for paid plans.", "label": "P2"}
+{"id": "ticket-0010", "subject": "Ransomware alert", "description": "Escalation summary: Ransomware detected on production servers; systems isolated.", "label": "P1"}
+{"id": "ticket-0140", "subject": "Minor UI bug", "description": "Reported by support queue: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0039", "subject": "Global outage", "description": "Customer says: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}
+{"id": "ticket-0177", "subject": "Cosmetic issue", "description": "Escalation summary: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0020", "subject": "Production outage", "description": "User message: The entire production site is down and all users cannot login.", "label": "P1"}
+{"id": "ticket-0029", "subject": "Data loss", "description": "Escalation summary: Database restore failed and we may have permanent data loss on orders.", "label": "P1"}
+{"id": "ticket-0003", "subject": "Security breach", "description": "Reported by support queue: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0144", "subject": "Minor UI bug", "description": "User message: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0110", "subject": "Billing error", "description": "Customer says: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0181", "subject": "How-to question", "description": "Reported by support queue: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0142", "subject": "Cosmetic issue", "description": "Reported by support queue: Logo looks blurry on retina displays but functionality works.", "label": "P3"}
+{"id": "ticket-0114", "subject": "Billing error", "description": "Escalation summary: Enterprise customer reports duplicate charges on last invoice.", "label": "P2"}
+{"id": "ticket-0190", "subject": "Minor UI bug", "description": "Ticket notes: Button alignment is off on settings page in Safari.", "label": "P3"}
+{"id": "ticket-0042", "subject": "Security breach", "description": "User message: We detected a security breach and suspect customer data exposure.", "label": "P1"}
+{"id": "ticket-0068", "subject": "Degraded performance", "description": "User message: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0164", "subject": "Docs clarification", "description": "Reported by support queue: Documentation unclear on webhook retry policy.", "label": "P3"}
+{"id": "ticket-0034", "subject": "Complete failure", "description": "Ticket notes: Payment processing is completely down for all merchants.", "label": "P1"}
+{"id": "ticket-0198", "subject": "How-to question", "description": "Customer says: How do I invite teammates to my workspace?", "label": "P3"}
+{"id": "ticket-0086", "subject": "Degraded performance", "description": "Ticket notes: Dashboard loading is severely degraded for enterprise tenants.", "label": "P2"}
+{"id": "ticket-0001", "subject": "Global outage", "description": "Customer says: API returns 503 for all regions; status page confirms major outage.", "label": "P1"}

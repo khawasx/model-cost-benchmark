@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# secrets
+.env
+*.key
+
+# results/data you don't want bloating the repo (comment out if you want to keep results)
+results/
+*.log
+
+# OS
+.DS_Store

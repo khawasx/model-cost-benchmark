@@ -1,0 +1,17 @@
+# Published API pricing (USD per 1M tokens). Update when vendors change rates.
+api_models:
+  claude-haiku-3-5:
+    input_per_million: 0.80
+    output_per_million: 4.00
+  claude-sonnet-4:
+    input_per_million: 3.00
+    output_per_million: 15.00
+  gpt-4o-mini:
+    input_per_million: 0.15
+    output_per_million: 0.60
+
+# Used to estimate self-hosted $/request from measured tokens/sec on your hardware.
+self_hosted:
+  gpu_hourly_usd: 0.50
+  # Reference cloud rate for an A10/L4-class GPU (RunPod-style). Local M-series
+  # Mac cost is amortised differently; this keeps comparisons apples-to-apples.

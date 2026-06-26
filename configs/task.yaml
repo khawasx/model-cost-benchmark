@@ -1,0 +1,94 @@
+task:
+  name: support_ticket_urgency
+  description: >
+    Classify short support tickets into urgency tiers P1 (critical), P2 (high),
+    or P3 (normal) based on subject and description.
+  labels:
+    - P1
+    - P2
+    - P3
+  prompt_template: |
+    You are a support ticket triage assistant. Classify the ticket urgency.
+
+    Urgency definitions:
+    - P1: Production outage, security incident, data loss, or complete service unavailability affecting many users.
+    - P2: Major feature broken, significant degradation, billing errors, or SLA risk for a key customer.
+    - P3: General questions, minor bugs, feature requests, or issues with workarounds.
+
+    Reply with ONLY one label: P1, P2, or P3.
+
+    Subject: {subject}
+    Description: {description}
+
+models:
+  # Deterministic keyword baseline — no API key required.
+  - id: rules-baseline
+    provider: rules
+    enabled: true
+
+  # Simulated profiles validate the harness without API keys. Replace with real
+  # providers by setting enabled: true on anthropic/openai/ollama entries below.
+  - id: mock-claude-haiku
+    provider: mock
+    enabled: true
+    pricing_key: claude-haiku-3-5
+    target_accuracy: 0.88
+    latency_ms_p50: 420
+    latency_ms_p95: 780
+    input_tokens: 180
+    output_tokens: 3
+
+  - id: mock-claude-sonnet
+    provider: mock
+    enabled: true
+    pricing_key: claude-sonnet-4
+    target_accuracy: 0.94
+    latency_ms_p50: 890
+    latency_ms_p95: 1450
+    input_tokens: 180
+    output_tokens: 3
+
+  - id: mock-llama-3.1-8b
+    provider: mock
+    enabled: true
+    target_accuracy: 0.82
+    latency_ms_p50: 310
+    latency_ms_p95: 520
+    input_tokens: 180
+    output_tokens: 3
+    self_hosted: true
+    tokens_per_second: 45
+
+  - id: mock-qwen-2.5-14b
+    provider: mock
+    enabled: true
+    target_accuracy: 0.86
+    latency_ms_p50: 480
+    latency_ms_p95: 820
+    input_tokens: 180
+    output_tokens: 3
+    self_hosted: true
+    tokens_per_second: 28
+
+  - id: claude-haiku-3-5
+    provider: anthropic
+    enabled: false
+    model: claude-3-5-haiku-latest
+
+  - id: claude-sonnet-4
+    provider: anthropic
+    enabled: false
+    model: claude-sonnet-4-20250514
+
+  - id: gpt-4o-mini
+    provider: openai
+    enabled: false
+    model: gpt-4o-mini
+
+  - id: llama-3.1-8b
+    provider: ollama
+    enabled: false
+    model: llama3.1:8b
+    base_url: http://localhost:11434
+    self_hosted: true
+    tokens_per_second: 45
